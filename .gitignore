@@ -1,0 +1,15 @@
+# Confidential: never commit (this repository is public)
+discovery-call-notes.txt
+case-study.md
+case-study.pdf
+client-note.md
+client-note.pdf
+submission-form.md
+
+# Local editor / assistant settings
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
